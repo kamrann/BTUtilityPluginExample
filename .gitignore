@@ -230,6 +230,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Unreal Engine-specific
+!*.dll
 Intermediate/
 DerivedDataCache/
 Saved/
