@@ -7,6 +7,7 @@
 *.userosscache
 *.sln.docstates
 *.VC.opendb
+*.VC.db
 
 # Build results
 [Dd]ebugPublic/
@@ -237,3 +238,5 @@ DerivedDataCache/
 Saved/
 Content/StarterContent/
 Packaged/
+Binaries/
+*.sln
